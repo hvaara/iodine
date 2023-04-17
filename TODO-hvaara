@@ -1,0 +1,17 @@
+https://github.com/hvaara/iodine/commit/6053285746850a927065c37debaf12105d456e3e
+- Update date
+
+https://github.com/hvaara/iodine/commit/f3877b13a4d61f6964e8bbed430b06cdaffec1fc
+- Update date
+- Update codename
+- Remove TODOs
+
+---
+- Test release
+- Build release
+- Docs changes?
+- Man page changes?
+- Other changes needing to be made before release?
+- Vendor notifications
+-- Verify debian can package new release
+- 
